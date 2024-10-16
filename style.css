@@ -123,6 +123,11 @@ span{
     font-size: 7rem;
     margin:3rem 1.5rem  3rem 0;
     transition: .5s ease;
+    z-index: 10;
+}
+.skill {
+    position: relative; /* Ensure the element is positioned */
+    z-index: 10; /* Higher value brings it to the front */
 }
 
 .social-media a{
@@ -510,6 +515,7 @@ transition: .5S ease;
    } 
 .skill a i{
     font-size: 5rem;
+
 }
    .contact form .input-box input{
     width: 100%;
