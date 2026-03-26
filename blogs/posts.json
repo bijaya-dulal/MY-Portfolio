@@ -1,0 +1,16 @@
+[
+    {
+        "title": "AI & Traffic",
+        "excerpt": "How I used Reinforcement Learning to solve traffic jams.",
+        "image": "blogs/images/sumo.jpeg",
+        "link": "blog/traffic-rl.html"
+    },
+
+    {
+        "title": "Don't do this mistake",
+        "excerpt": "What I learned from my mistakes.",
+        "image": "blogs/images/mistake.jpg",
+        "link": "blog/traffic-rl.html"
+    }
+    
+]
