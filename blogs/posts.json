@@ -1,16 +1,20 @@
 [
     {
-        "title": "AI & Traffic",
+        "id": "dont-do-this-mistake",
+        "title": "Don't do this mistake",
+        "date": "March 26, 2026",
+        "author": "Bijaya Dulal",
+        "excerpt": "what i lerned from my mistakes.",
+        "image": "blogs/images/mistake.jpg",
+        "file":"blogs/blog1.md"
+    },
+    {
+        "id": "ai-traffic",
+        "title": "AI & Traffic Simulation",
+        "date": "April 02, 2026",
+        "author": "Bijaya Dulal",
         "excerpt": "How I used Reinforcement Learning to solve traffic jams.",
         "image": "blogs/images/sumo.jpeg",
-        "link": "blog/traffic-rl.html"
-    },
-
-    {
-        "title": "Don't do this mistake",
-        "excerpt": "What I learned from my mistakes.",
-        "image": "blogs/images/mistake.jpg",
-        "link": "blog/traffic-rl.html"
+        "content": "<p>Traffic congestion is a massive problem. In this project, I used Python to build a reinforcement learning model...</p><h3>The Algorithm</h3><p>Here is how the agent learns:</p><pre><code class='language-python'>import gym\n# AI code goes here</code></pre>"
     }
-    
 ]
